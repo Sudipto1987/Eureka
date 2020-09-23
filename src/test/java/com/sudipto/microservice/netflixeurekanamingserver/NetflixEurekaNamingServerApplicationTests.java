@@ -5,8 +5,13 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class NetflixEurekaNamingServerApplicationTests {
+	
+	
+	public static void main(String[] args) {
+		SpringApplication.run(NetflixEurekaNamingServerApplication.class, args);
+	}
 
-	@Test
+	//new change only in git
 	void contextLoads() {
 	}
 
