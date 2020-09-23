@@ -17,6 +17,7 @@ public class NetflixEurekaNamingServerApplication {
 	//second change
 	//11 54
 	//11 57
+	//12
 	public void test(){
 	}
 
